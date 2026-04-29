@@ -24,7 +24,7 @@ AltGr:   ḳāḍı, ʿOs̱mān, ḥadīs̱-i şerīf
 ## ⚡ Hızlı Kurulum
 
 ```bash
-git clone https://github.com/KULLANICI/linux-osmanlica-klavye.git
+git clone https://github.com/emirhaktancaliskan/linux-osmanlica-klavye.git
 cd linux-osmanlica-klavye
 sudo bash scripts/install.sh
 ```
