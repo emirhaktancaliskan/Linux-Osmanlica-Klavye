@@ -3,8 +3,11 @@ Linux'ta Osmanlı Türkçesi transkripsiyon (çeviriyazı) için Türkçe Q klav
 Türkçe Q klavyenizin üzerine AltGr (sağ Alt) seviyesi ekler. Tüm normal Türkçe yazım (ı, i, ç, ğ, ö, ş, ü) aynen çalışır;
 transkripsiyon karakterlerini AltGr ile yazarsınız. 
 Desteklenen karakterler 
-Uzun ünlüler: ā ē ī ō ū ve büyükleri Şapkalı ünlüler: â î û ve büyükleri Vurgulu ünsüzler: ṣ ḍ ṭ ẓ ḥ ḳ ve büyükleri Hırıltılı: ḫ ġ ve
-büyükleri Alt-çizgili: ẕ ḏ ż s̱ ı̄ ve büyükleri Diğer: ñ ʿ ʾ 
+Uzun ünlüler: ā ē ī ō ū ve büyükleri 
+Şapkalı ünlüler: â î û ve büyükleri 
+Vurgulu ünsüzler: ṣ ḍ ṭ ẓ ḥ ḳ ve büyükleri 
+Hırıltılı: ḫ ġ ve büyükleri 
+Alt-çizgili: ẕ ḏ ż s̱ ı̄ ve büyükleri Diğer: ñ ʿ ʾ 
 Tam tuş haritası için: docs/tus-haritasi.md 
 Hızlı kurulum 
 git clone https://github.com/KULLANICI/linux-osmanlica-klavye.git
