@@ -40,7 +40,7 @@ Sonra **logout/login** yapın ve klavye ayarlarınızdan ekleyin (aşağıda det
 | **İşletim sistemi** | Linux (X11 veya Wayland) |
 | **Dağıtım** | Fedora, Ubuntu, Debian, Arch, openSUSE, Mint vb. |
 | **Masaüstü** | GNOME, KDE, XFCE, Cinnamon, MATE, Budgie |
-| **Paketler** | `xkeyboard-config`, `python3` (her dağıtımda var) |
+| **Paketler** | `xkeyboard-config`, `python3` |
 | **İsteğe bağlı** | `xkbcomp` (kurulum öncesi syntax testi için) |
 
 ---
