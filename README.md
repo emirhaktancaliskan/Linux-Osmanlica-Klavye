@@ -1,6 +1,6 @@
-# 🪶 Linux Osmanlıca Transkripsiyon Klavyesi
+#  Linux Osmanlıca Transkripsiyon Klavyesi
 
-> Linux'ta Osmanlı Türkçesi transkripsiyon (çeviriyazı) için Türkçe Q tabanlı klavye düzeni — TDV İslam Ansiklopedisi (İA) sistemine uyumlu.
+> Linux'ta Osmanlı Türkçesi transkripsiyon (çeviriyazı) için Türkçe Q tabanlı klavye düzeni.
 
 [![Lisans: GPL v3](https://img.shields.io/badge/Lisans-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![XKB Test](https://github.com/KULLANICI/linux-osmanlica-klavye/actions/workflows/test.yml/badge.svg)](https://github.com/KULLANICI/linux-osmanlica-klavye/actions)
