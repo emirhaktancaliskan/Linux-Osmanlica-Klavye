@@ -8,7 +8,7 @@
 
 ---
 
-## 📖 Bu nedir?
+## 📖 Ne işe yarar?
 
 Akademik metinlerde Osmanlıca yazarken kullanılan **ā ē ī ō ū**, **ṣ ḍ ṭ ẓ ḥ ḳ**, **ḫ ġ**, **ʿ ʾ** gibi karakterleri Linux'ta **doğrudan klavyeden** yazmanızı sağlar.
 
